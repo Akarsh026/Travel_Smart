@@ -113,7 +113,7 @@ Logout: Returns to the Login Page.
 ## 👥 Authors and Acknowledgements
 This project was a collaborative effort by the following students:
 
-AKARSH C SHETTY (4SF19CS015)
+AKARSH C SHETTY (4SF19CS015)  
 SANJAY SHETTY (4SF19CS141)
 
 Special Thanks
